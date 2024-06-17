@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppBar</string>
+
+    <string name="search">Search</string>
+    <string name="search_icon">search icon</string>
+    <string name="close_icon">close icon</string>
+</resources>

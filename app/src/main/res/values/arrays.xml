@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="home_nav_drawables">
+        <item>@drawable/home_nav_blue</item>
+        <item>@drawable/home_nav_orange</item>
+        <item>@drawable/home_nav_purple</item>
+    </array>
+
+
+</resources>
